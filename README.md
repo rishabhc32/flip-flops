@@ -29,7 +29,8 @@ Here **Active Low SR Latch** is demonstated.
 
 ![real life circuit](https://raw.githubusercontent.com/rishabhc32/flip-flops/master/images/circuit.jpg "My Circuit")
 
-This is how my circuit was looking.
+This is how my circuit was looking. I was using Arduino for 5V power supply.
+**Don't forget to add resistor before an LED to prevent from over voltage.**
 
 * Now verify the truth table for the Latch.
 * Active Low Latch changes output, i.e. SET or RESET only when **S** or **R** is LOW respectively.
