@@ -53,7 +53,7 @@ LOW|LOW|Invalid State|![sixth][logo6]|The output is indeterminate
 [logo5]:https://raw.githubusercontent.com/rishabhc32/flip-flops/master/images/5.png "No Change, output LOW"
 [logo6]:https://raw.githubusercontent.com/rishabhc32/flip-flops/master/images/6.png "Invalid State"
 
-So it is clear that a **Latch** stores a bit after it is **SET** or **RESET** even after the the input is changed.
+So it is clear that a **Latch** stores a bit after it is **SET** or **RESET** even after the the input is changed. :metal:
 
 _Raw Video of Latch demo \:_
 > [![demo raw video](https://raw.githubusercontent.com/rishabhc32/flip-flops/master/images/video.png)](https://raw.githubusercontent.com/rishabhc32/flip-flops/master/images/raw-video.mp4)
