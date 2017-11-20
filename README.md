@@ -64,7 +64,7 @@ _Raw Video of Latch demo \:_
 
 This is a [**SR Flip Flop**](http://www.electronicshub.org/sr-flip-flop-design-with-nor-and-nand-logic-gates/), _output_ is **HIGH (SET)** when **S** and **CLK** is HIGH while _output_ is **LOW (reset)** when **R** and **CLK** is HIGH. SR FF is clock synchronized SR Latch and has several [advantage over SR Latch](http://www.learnabout-electronics.org/Digital/dig52.php).
 
-Due to unavailability of function generator and my laziness of making a square wave generator, I made a [**SR Gated Latch**](https://www.allaboutcircuits.com/textbook/digital/chpt-10/the-gated-s-r-latch/), which is nothing but a SR FF with ENABLE instead of CLK.
+Due to unavailability of function generator and my laziness of making a square wave generator, I made a [**SR Gated Latch**](https://www.allaboutcircuits.com/textbook/digital/chpt-10/the-gated-s-r-latch/), which is nothing but a SR FF with ENABLE instead of CLK. You can make a square wave generator and use it as a clock.
 
 ![SR gated latch](https://upload.wikimedia.org/wikipedia/en/4/49/Gated_SR_latch.png "SR Gated Latch")
 > **EN** or **E** is ENABLE
@@ -108,3 +108,6 @@ So it is clear that a **Flip Flop** stores a bit after it is **SET** or **RESET*
 _Raw Video of Flip Flop demo \:_
 
 > [![demo raw video](https://raw.githubusercontent.com/rishabhc32/flip-flops/master/images/sr-ff/thubnail.png "Video Link")](https://raw.githubusercontent.com/rishabhc32/flip-flops/master/images/sr-ff/video.mp4)
+
+## Further Development
+You can similarly make **JK**, **D** and **T** **Flip Flops**. Further the same concept can be applied to make **counters** and **registers**.
