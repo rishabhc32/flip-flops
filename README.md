@@ -103,7 +103,8 @@ HIGH|HIGH|HIGH|Invalid State|![sixth][logo81]|The output is indeterminate
 [logo71]:https://raw.githubusercontent.com/rishabhc32/flip-flops/master/images/sr-ff/7.png "No Change, R High but EN LOW"
 [logo81]:https://raw.githubusercontent.com/rishabhc32/flip-flops/master/images/sr-ff/8.png  "Invalid State"
 
-So it is clear that a **Flip Flop** stores a bit after it is **SET** or **RESET** even after the the input is changed. And a **Flip FLop** changes its value only when **EN** or **CLK** is HIGH  :sunglasses:
+So it is clear that a **Flip Flop** stores a bit after it is **SET** or **RESET** even after the the input is changed. And a **Flip FLop** changes its value only when **EN** or **CLK** is HIGH.  :thumbsup:
 
 _Raw Video of Flip Flop demo \:_
+
 > [![demo raw video](https://raw.githubusercontent.com/rishabhc32/flip-flops/master/images/sr-ff/thubnail.png "Video Link")](https://raw.githubusercontent.com/rishabhc32/flip-flops/master/images/sr-ff/video.mp4)
